@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from urllib2 import urlopen
 from email.MIMEMultipart import MIMEMultipart
 from email.MIMEText import MIMEText
